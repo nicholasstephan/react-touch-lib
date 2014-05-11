@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/petehunt/react-touch-lib"
+    "url": "https://github.com/nicholasstephan/react-touch-lib"
   },
   "scripts": {
     "start": "jsxc --watch src/ lib/",
